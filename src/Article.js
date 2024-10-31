@@ -6,4 +6,8 @@ function Article() {
   );
 }
 
+function Comment() {
+  return <div>Naturally, I agree withthis article.</div>;
+}
+
 export default Article;
